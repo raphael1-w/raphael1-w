@@ -1,6 +1,6 @@
 # Hi, I'm Raphael! 👋
 
-BSc Artificial Intelligence and Computer Science @ University of Birmingham from Hong Kong 🇭🇰
+BSc Artificial Intelligence and Computer Science student @ University of Birmingham from Hong Kong 🇭🇰
 
 ## Interests
 - Machine learning
